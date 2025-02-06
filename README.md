@@ -1,6 +1,7 @@
-## Hello there! 
-
-My name is Linh and I'm new to Github - currently trying to learn all the tools haha. I'm an aspiring Software Engineer studying at the University of Queensland. I enjoy coding and working on projects because I love problem solving!
+## Hello there! 🪷
+🌕 My name is Linh and I'm new to Github - currently trying to learn all the tools haha  
+I'm an aspiring Software Engineer studying at the University of Queensland 🌃 
+I enjoy coding and working on projects because I love problem solving!
 
 <!--
 **linhledo/linhledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
